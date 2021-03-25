@@ -1,5 +1,7 @@
 # ![Markdown Here logo](/src/common/images/icon48.png) Markdown Here
 
+![Markdown Here logo](/beecom.png) 
+
 [**Visit the website.**](http://markdown-here.com)<br>
 [**Get it for Chrome.**](https://chrome.google.com/webstore/detail/elifhakcjgalahccnjkneoccemfahfoa)<br>
 [**Get it for Firefox.**](https://addons.mozilla.org/en-US/firefox/addon/markdown-here/)<br>
