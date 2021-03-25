@@ -1,3 +1,3 @@
 #  Markdown Here
 
-![](/beecom.png) 
+![](./beecom.png) 
