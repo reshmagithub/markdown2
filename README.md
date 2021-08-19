@@ -15,3 +15,6 @@
 #From Dev
 
 ![](https://raw.githubusercontent.com/reshmagithub/markdown2/master/beecom.png)
+
+relative path image
+![test](/beecom.png)
