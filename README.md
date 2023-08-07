@@ -18,3 +18,4 @@
 
 relative path image
 ![test](/beecom.png)
+test
